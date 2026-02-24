@@ -1,0 +1,3 @@
+{
+    "todo-tree.regex.regex": "--\\[\\[[\\s|\\n|\\r]*($TAGS)[\\s|\\n|\\r]*\\]\\]|--\\s*($TAGS)",
+}
